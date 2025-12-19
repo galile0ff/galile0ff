@@ -59,7 +59,7 @@
 
 ---
 
-### 🔐 Güvenlik & Analiz Araçları
+### 🔐 Güvenlik & Analiz
 ![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=flat)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat)
@@ -72,23 +72,27 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/9ed642b5-b22c-487a-b599-880228c6b515">
-    <img src="https://images.credly.com/size/220x220/images/9ed642b5-b22c-487a-b599-880228c6b515.png" width="120"/>
+    <img src="./assets/badges/badge1.png" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/d8fd3eb1-453d-4208-bb30-be5ec0be02f6">
-    <img src="https://images.credly.com/size/220x220/images/d8fd3eb1-453d-4208-bb30-be5ec0be02f6.png" width="120"/>
+    <img src="./assets/badges/badge2.png" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/fd4e6bfe-bcd9-4a27-8105-21d03702f4a5">
-    <img src="https://images.credly.com/size/220x220/images/fd4e6bfe-bcd9-4a27-8105-21d03702f4a5.png" width="120"/>
+    <img src="./assets/badges/badge3.png" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/d5c3f074-8701-4827-a163-89381fa112e2">
-    <img src="https://images.credly.com/size/220x220/images/d5c3f074-8701-4827-a163-89381fa112e2.png" width="120"/>
+    <img src="./assets/badges/badge4.png" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/970c3ca0-25ed-45e6-b710-454617fd1cf6">
-    <img src="https://images.credly.com/size/220x220/images/970c3ca0-25ed-45e6-b710-454617fd1cf6.png" width="120"/>
+    <img src="./assets/badges/badge5.png" width="120"/>
   </a>
   <a href="https://www.credly.com/badges/e98d3e8e-28ae-4e22-8ea0-f7659db3aaf6">
-    <img src="https://images.credly.com/size/220x220/images/e98d3e8e-28ae-4e22-8ea0-f7659db3aaf6.png" width="120"/>
+    <img src="./assets/badges/badge6.png" width="120"/>
   </a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://www.credly.com/users/galileoff/badges">Tüm sertifikaları Credly’de görüntüle</a>
 </p>
 
 ---
@@ -100,7 +104,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galile0ff&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galile0ff&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
@@ -110,5 +114,5 @@
 ---
 
 ## 📫 İletişim
-- GitHub: https://github.com/galile0ff
+- GitHub: https://github.com/galile0ff  
 - Credly: https://www.credly.com/users/galileoff/badges
