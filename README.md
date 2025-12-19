@@ -1,12 +1,12 @@
 <div align="center">
 
 # 👋 Selam, ben Yağız (galile0ff)
-### Mühendis • Geliştirici • Siber Güvenlik Meraklısı
+### Makine Mühendisi • Geliştirici • Siber Güvenlik Uzmanı
 
 </div>
 
 <p align="center">
-  Sürekli öğrenen, üreten ve çalışan sistemler inşa etmeyi seven biriyim. Siber güvenlik, otomasyon ve verimli backend çözümleri özel ilgi alanlarım.
+  Sürekli öğrenen, üreten ve çalışan sistemler inşa etmeyi seven biriyim. Siber güvenlik, otomasyon ve özelleştirilmiş makine çözümleri özel ilgi alanlarım.
 </p>
 
 ---
@@ -72,7 +72,7 @@
 
 ---
 
-## 🎓 Sertifikalarım & Rozetlerim
+## 🎓 Rozetlerim
 
 <p align="center">
   <a href="https://www.credly.com/badges/9ed642b5-b22c-487a-b599-880228c6b515">
@@ -103,12 +103,17 @@
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galile0ff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galile0ff&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=galile0ff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="galile0ff's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galile0ff&theme=tokyonight&hide_border=true" alt="galile0ff's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galile0ff&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="galile0ff's Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galile0ff&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=galile0ff&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="galile0ff's GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galile0ff&theme=tokyo-night&hide_border=true" alt="galile0ff's Activity Graph" />
 </div>
 
 ---
