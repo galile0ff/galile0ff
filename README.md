@@ -1,118 +1,120 @@
-<h1 align="center">👋 Selam, ben galile0ff</h1>
+<div align="center">
+
+# 👋 Selam, ben Yağız (galile0ff)
+### Mühendis • Geliştirici • Siber Güvenlik Meraklısı
+
+</div>
 
 <p align="center">
-  Mühendis • Yazılımcı • Siber Güvenlik Meraklısı
-</p>
-
-<p align="center">
-  <a href="https://www.credly.com/users/galileoff/badges">🎓 Credly Sertifikalarım</a>
+  Sürekli öğrenen, üreten ve çalışan sistemler inşa etmeyi seven biriyim. Siber güvenlik, otomasyon ve verimli backend çözümleri özel ilgi alanlarım.
 </p>
 
 ---
 
-## 🧠 Hakkımda
-- 🛠️ Mühendislik temelli düşünen, üretmeyi seven bir geliştirici  
-- 🔐 Siber güvenlik, sistemler ve otomasyon alanlarına ilgi  
-- 💻 Backend ağırlıklı web uygulamaları, araçlar ve scraper projeleri  
-- ⚙️ Teori yerine çalışan sistemleri tercih ederim
+## 🚀 Yeteneklerim & Kullandığım Teknolojiler
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h4>💻 Programlama & Diller</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+          <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+        </p>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h4>🌐 Web & Backend</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" alt="Next.js"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+          <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+          <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet" alt="ASP.NET Core"/>
+          <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api" alt="REST API"/>
+          <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" alt="JWT"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h4>🗄️ Veritabanı & Cache</h4>
+        <p>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+        </p>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h4>⚙️ DevOps & Sistem</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+          <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Teknoloji Yığını (Tech Stack)
-
-### 💻 Programlama Dilleri
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
----
-
-### 🌐 Web & Backend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat)
-
----
-
-### 🗄️ Veritabanları & Cache
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
----
-
-### ⚙️ DevOps, Sistem & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure)
-
----
-
-### 🔐 Güvenlik & Analiz
-![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat)
-![CTF](https://img.shields.io/badge/CTF-111111?style=flat)
-
----
-
-## 🎓 Sertifikalar & Badge’ler (Credly)
+## 🎓 Sertifikalarım & Rozetlerim
 
 <p align="center">
   <a href="https://www.credly.com/badges/9ed642b5-b22c-487a-b599-880228c6b515">
-    <img src="./assets/badges/badge1.png" width="120"/>
+    <img src="./assets/badges/cybersecurity-fundamentals.png" width="130" alt="Cybersecurity Fundamentals"/>
   </a>
   <a href="https://www.credly.com/badges/d8fd3eb1-453d-4208-bb30-be5ec0be02f6">
-    <img src="./assets/badges/badge2.png" width="120"/>
+    <img src="./assets/badges/enterprise-security-in-practice.1.png" width="130" alt="Enterprise Security in Practice"/>
   </a>
   <a href="https://www.credly.com/badges/fd4e6bfe-bcd9-4a27-8105-21d03702f4a5">
-    <img src="./assets/badges/badge3.png" width="120"/>
+    <img src="./assets/badges/ethical-hacker.png" width="130" alt="Ethical Hacker"/>
   </a>
   <a href="https://www.credly.com/badges/d5c3f074-8701-4827-a163-89381fa112e2">
-    <img src="./assets/badges/badge4.png" width="120"/>
+    <img src="./assets/badges/getting-started-with-threat-intelligence-and-hunting.3.png" width="130" alt="Threat Intelligence and Hunting"/>
   </a>
   <a href="https://www.credly.com/badges/970c3ca0-25ed-45e6-b710-454617fd1cf6">
-    <img src="./assets/badges/badge5.png" width="120"/>
+    <img src="./assets/badges/introduction-to-the-threat-landscape-3-0.png" width="130" alt="Introduction to the Threat Landscape"/>
   </a>
   <a href="https://www.credly.com/badges/e98d3e8e-28ae-4e22-8ea0-f7659db3aaf6">
-    <img src="./assets/badges/badge6.png" width="120"/>
+    <img src="./assets/badges/security-operations-center-in-practice.1.png" width="130" alt="Security Operations Center in Practice"/>
   </a>
 </p>
-
 <p align="center">
-  🔗 <a href="https://www.credly.com/users/galileoff/badges">Tüm sertifikaları Credly’de görüntüle</a>
+  <a href="https://www.credly.com/users/galileoff/badges">Tüm rozetlerimi Credly'de görüntüleyin</a>
 </p>
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galile0ff&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=galile0ff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galile0ff&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=galile0ff&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galile0ff&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 📫 İletişim
-- GitHub: https://github.com/galile0ff  
-- Credly: https://www.credly.com/users/galileoff/badges
+## 📫 Bana Ulaşın
+
+<p align="center">
+  <strong><a href="https://github.com/galile0ff">GitHub</a></strong> | <strong><a href="https://www.credly.com/users/galileoff/badges">Credly</a></strong>
+</p>
