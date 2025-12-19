@@ -102,10 +102,16 @@
 
 ## 📊 GitHub İstatistiklerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galile0ff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galile0ff&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=galile0ff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galile0ff&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=galile0ff&theme=tokyo-night&hide_border=true" />
