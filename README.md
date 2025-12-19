@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Selam, ben Yağız (galile0ff)
+# Ben Yağız (galile0ff)
 ### Makine Mühendisi • Geliştirici • Siber Güvenlik Uzmanı
-
+<img src="https://komarev.com/ghpvc/?username=galile0ff&label=Profil+Ziyaretçisi&color=blueviolet&style=flat-square" />
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Yeteneklerim & Kullandığım Teknolojiler
+## 🚀 Kullandığım Teknolojiler
 
 <table width="100%">
   <tr>
@@ -100,7 +100,7 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 İstatistiklerim
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
