@@ -104,12 +104,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=galile0ff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="galile0ff's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galile0ff&theme=tokyonight&hide_border=true" alt="galile0ff's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=galile0ff&theme=tokyonight&hide_border=true" alt="galile0ff's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galile0ff&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="galile0ff's Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=galile0ff&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="galile0ff's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=galile0ff&theme=tokyonight&no-frame=true&margin-w=4" alt="galile0ff's GitHub Trophies" />
 </div>
 
 <div align="center">
