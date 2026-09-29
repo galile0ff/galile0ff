@@ -72,7 +72,7 @@ def collect():
 
 CSS = """<style>
 text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:13px;fill:#c9d1d9}
-.g{fill:#00ff41}.d{fill:#8b949e}.b{font-weight:700}
+.g{fill:#00ff41}.r{fill:#ff3b3b}.d{fill:#8b949e}.b{font-weight:700}
 </style>"""
 
 
@@ -99,7 +99,7 @@ def stats_svg(d):
         ("toplam katkı", d["contrib"]),
     ]
     w, h = 400, 240
-    body = [f'<text x="20" y="58"><tspan class="g">$</tspan> ./stats --user {escape(USER)}</text>']
+    body = [f'<text x="20" y="58"><tspan class="r">root@{escape(USER)}:~#</tspan> ./stats</text>']
     y = 84
     for k, v in rows:
         body.append(f'<text x="20" y="{y}"><tspan class="g">[+]</tspan> {escape(k)}</text>')
@@ -114,7 +114,7 @@ def langs_svg(langs):
     w, h = 400, 240
     total = sum(langs.values()) or 1
     top = sorted(langs.items(), key=lambda x: x[1], reverse=True)[:7]
-    body = ['<text x="20" y="58"><tspan class="g">$</tspan> ./langs --top</text>']
+    body = ['<text x="20" y="58"><tspan class="r">root@galile0ff:~#</tspan> ./langs --top</text>']
     y = 82
     shades = ["1", ".88", ".76", ".64", ".52", ".42", ".34"]
     if not top:
