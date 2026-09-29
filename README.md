@@ -115,4 +115,4 @@ root@galile0ff:~# ./reach --list
 
 ---
 
-<p align="center"><sub><code>eğitim, araştırma ve yetkili testler için. izin almadığın sistemde tek paket bile gönderme.</code></sub></p>
+<h3 align="center"><sub><code>eğitim, araştırma ve yetkili testler için. izin almadığın sistemde tek paket bile gönderme.</code></sub></h3>
