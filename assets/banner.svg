@@ -46,7 +46,7 @@
     <text x="28" y="208">1337/tcp</text><text x="150" y="208" class="g">open</text><text x="250" y="208">makine-tasarımı</text>
   </g>
 
-  <text class="o g glow" x="28" y="240" style="animation-delay:3.6s;font-weight:700;font-size:17px">[+] host up  //  galile0ff (Yağız)</text>
+  <text class="o g glow" x="28" y="240" style="animation-delay:3.6s;font-weight:700;font-size:17px">[+] host up  //  galile0ff (yağız)</text>
 
   <text class="o" x="28" y="272" style="animation-delay:4.2s"><tspan class="r">root@galile0ff:~#</tspan></text>
   <rect class="cur" x="200" y="259" width="9" height="16" fill="#00ff41"/>

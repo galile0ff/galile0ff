@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""GitHub profil istatistiklerini çekip assets/stats.svg ve assets/langs.svg üretir.
-
-Üçüncü parti görsel servislerine bağımlılık yok: SVG'ler repo içinde durur,
-GitHub Actions ile periyodik güncellenir. Sadece standart kütüphane kullanır.
-"""
 import json
 import os
 import urllib.request

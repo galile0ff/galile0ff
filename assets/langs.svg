@@ -1,12 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
 <style>
 text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:13px;fill:#c9d1d9}
-.g{fill:#00ff41}.d{fill:#8b949e}.b{font-weight:700}
+.g{fill:#00ff41}.r{fill:#ff3b3b}.d{fill:#8b949e}.b{font-weight:700}
 </style>
 <rect x="0.5" y="0.5" width="399" height="239" rx="10" fill="#0d1117" stroke="#30363d"/>
 <path d="M0.5 34 V10.5 a10 10 0 0 1 10 -10 H389.5 a10 10 0 0 1 10 10 V34 z" fill="#161b22"/>
 <circle cx="20" cy="18" r="5" fill="#ff5f56"/><circle cx="38" cy="18" r="5" fill="#ffbd2e"/><circle cx="56" cy="18" r="5" fill="#27c93f"/>
 <text x="200.0" y="22" text-anchor="middle" class="d" style="font-size:12px">langs.sh</text>
-<text x="20" y="58"><tspan class="g">$</tspan> ./langs --top</text>
-<text x="20" y="82" class="d"># veri yok, workflow'u çalıştır</text>
+<text x="20" y="58"><tspan class="r">root@galile0ff:~#</tspan> ./langs --top</text>
+<text x="20" y="82">TypeScript</text>
+<rect x="130" y="72" width="190" height="10" rx="2" fill="#161b22"/>
+<rect x="130" y="72" width="190.0" height="10" rx="2" fill="#00ff41" fill-opacity="1"/>
+<text x="380" y="82" text-anchor="end" class="d">38.1%</text>
+<text x="20" y="104">JavaScript</text>
+<rect x="130" y="94" width="190" height="10" rx="2" fill="#161b22"/>
+<rect x="130" y="94" width="79.8" height="10" rx="2" fill="#00ff41" fill-opacity=".88"/>
+<text x="380" y="104" text-anchor="end" class="d">16.0%</text>
+<text x="20" y="126">Go</text>
+<rect x="130" y="116" width="190" height="10" rx="2" fill="#161b22"/>
+<rect x="130" y="116" width="78.9" height="10" rx="2" fill="#00ff41" fill-opacity=".76"/>
+<text x="380" y="126" text-anchor="end" class="d">15.8%</text>
+<text x="20" y="148">Java</text>
+<rect x="130" y="138" width="190" height="10" rx="2" fill="#161b22"/>
+<rect x="130" y="138" width="57.7" height="10" rx="2" fill="#00ff41" fill-opacity=".64"/>
+<text x="380" y="148" text-anchor="end" class="d">11.6%</text>
+<text x="20" y="170">PHP</text>
+<rect x="130" y="160" width="190" height="10" rx="2" fill="#161b22"/>
+<rect x="130" y="160" width="42.5" height="10" rx="2" fill="#00ff41" fill-opacity=".52"/>
+<text x="380" y="170" text-anchor="end" class="d">8.5%</text>
+<text x="20" y="192">CSS</text>
+<rect x="130" y="182" width="190" height="10" rx="2" fill="#161b22"/>
+<rect x="130" y="182" width="38.8" height="10" rx="2" fill="#00ff41" fill-opacity=".42"/>
+<text x="380" y="192" text-anchor="end" class="d">7.8%</text>
+<text x="20" y="214">Python</text>
+<rect x="130" y="204" width="190" height="10" rx="2" fill="#161b22"/>
+<rect x="130" y="204" width="8.5" height="10" rx="2" fill="#00ff41" fill-opacity=".34"/>
+<text x="380" y="214" text-anchor="end" class="d">1.7%</text>
 </svg>

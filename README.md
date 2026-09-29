@@ -32,6 +32,14 @@ Kırmayı öğrendiğim şeyi, daha sağlam kurmak için kullanırım.
 
 ---
 
+### `~/methodology`
+
+<p align="center">
+  <img src="./assets/methodology.svg" width="100%" alt="Ofansif ve Defansif Metodoloji" />
+</p>
+
+---
+
 ### `~/arsenal`
 
 **diller**<br>
