@@ -110,15 +110,21 @@ Cisco / Credly üzerinden doğrulanabilir. Rozete tıkla, doğrulama sayfası a�
 ### `~/contact`
 
 ```console
-root@galile0ff:~# ./reach --list
+root@galile0ff:~# ./reach --all --status
+
+[+] E-Mail     :: yaizm058@gmail.com          [ONLINE]
+[+] LinkedIn   :: in/m-enes-yağız             [ESTABLISHED]
+[+] Telegram   :: @galileoff                  [ACTIVE]
+[+] Instagram  :: @enesyagiz_f                [IDLE]
+[+] Support    :: buymeacoffee.com/galileoff   [OPEN]
 ```
 
 <p align="center">
-  <a href="mailto:yaizm058@gmail.com"><img src="https://img.shields.io/badge/mail-yaizm058%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-  <a href="https://www.linkedin.com/in/m-enes-ya%C4%9F%C4%B1z/"><img src="https://img.shields.io/badge/linkedin-m--enes--ya%C4%9F%C4%B1z-0d1117?style=for-the-badge&labelColor=0d1117&color=0A66C2" /></a>
-  <a href="https://t.me/galileoff"><img src="https://img.shields.io/badge/telegram-%40galileoff-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
-  <a href="https://www.instagram.com/enesyagiz_f/"><img src="https://img.shields.io/badge/instagram-enesyagiz__f-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-  <a href="https://buymeacoffee.com/galileoff"><img src="https://img.shields.io/badge/kahve-%C4%B1smarla-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" /></a>
+  <a href="mailto:yaizm058@gmail.com"><img src="https://img.shields.io/badge/Email-yaizm058%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/m-enes-ya%C4%9F%C4%B1z/"><img src="https://img.shields.io/badge/LinkedIn-m--enes--ya%C4%9F%C4%B1z-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn" /></a>
+  <a href="https://t.me/galileoff"><img src="https://img.shields.io/badge/Telegram-%40galileoff-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=161b22" alt="Telegram" /></a>
+  <a href="https://www.instagram.com/enesyagiz_f/"><img src="https://img.shields.io/badge/Instagram-enesyagiz__f-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=161b22" alt="Instagram" /></a>
+  <a href="https://buymeacoffee.com/galileoff"><img src="https://img.shields.io/badge/Kahve-%C4%B1smarla-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00&labelColor=161b22" alt="Buy Me A Coffee" /></a>
 </p>
 
 ---
