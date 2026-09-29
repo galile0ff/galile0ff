@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="240" viewBox="0 0 830 240" role="img" aria-label="galile0ff about banner">
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; font-size: 15px; fill: #c9d1d9; }
+    .g { fill: #00ff41; }
+    .r { fill: #ff3b3b; }
+    .d { fill: #8b949e; }
+    .y { fill: #e3b341; }
+    .w { fill: #f0f6fc; }
+    .o { opacity: 0; animation: show .01s forwards; }
+    @keyframes show { to { opacity: 1; } }
+    .t { width: 0; animation: type 1.2s steps(30) .3s forwards; }
+    @keyframes type { to { width: 320px; } }
+    .cur { opacity: 0; animation: blink 1s steps(1) 4.2s infinite; }
+    @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+    .glow { filter: drop-shadow(0 0 4px #00ff41); }
+  </style>
+  <defs>
+    <clipPath id="c1"><rect class="t" x="28" y="54" height="26"/></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="829" height="239" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 38 V10.5 a10 10 0 0 1 10 -10 H819.5 a10 10 0 0 1 10 10 V38 z" fill="#161b22"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+  <text x="415" y="25" text-anchor="middle" class="d" style="font-size:13px">root@galile0ff: ~/about.txt</text>
+
+  <g clip-path="url(#c1)"><text x="28" y="72"><tspan class="r">root@galile0ff:~#</tspan> cat about.txt</text></g>
+
+  <text class="o d" x="28" y="98" style="animation-delay:1.6s">[*] about.txt okunuyor...</text>
+
+  <g class="o" style="animation-delay:2.0s">
+    <text x="28" y="126" class="w">Donanımla yazılımın kesiştiği yerde çalışıyorum.</text>
+  </g>
+  <g class="o" style="animation-delay:2.4s">
+    <text x="28" y="150" class="w">Mekanik bir sistemi de bir ağı da aynı şekilde okurum:</text>
+  </g>
+  <g class="o" style="animation-delay:2.8s">
+    <text x="28" y="174" class="y">nerede varsayım yapılmış, nerede zayıf, nerede kırılır.</text>
+  </g>
+
+  <text class="o g glow" x="28" y="204" style="animation-delay:3.3s;font-weight:700;font-size:15px">[+] Kırmayı öğrendiğim şeyi, daha sağlam kurmak için kullanırım.</text>
+
+  <text class="o" x="28" y="228" style="animation-delay:4.0s"><tspan class="r">root@galile0ff:~#</tspan></text>
+  <rect class="cur" x="180" y="215" width="9" height="16" fill="#00ff41"/>
+</svg>

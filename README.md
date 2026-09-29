@@ -8,14 +8,9 @@
   <img src="https://img.shields.io/badge/scope-authorized%20only-00ff41?style=flat-square&labelColor=0d1117" />
 </p>
 
-```console
-root@galile0ff:~# cat about.txt
-
-Donanımla yazılımın kesiştiği yerde çalışıyorum.
-Mekanik bir sistemi de bir ağı da aynı şekilde okurum:
-nerede varsayım yapılmış, nerede zayıf, nerede kırılır.
-Kırmayı öğrendiğim şeyi, daha sağlam kurmak için kullanırım.
-```
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="about terminal" />
+</p>
 
 ---
 
@@ -109,18 +104,9 @@ Cisco / Credly üzerinden doğrulanabilir. Rozete tıkla, doğrulama sayfası a�
 
 ### `~/contact`
 
-```console
-┌──(root㉿galile0ff)-[~/contact]
-└─$ ./connect --list-endpoints
-
-  SERVICE      TARGET                         STATUS        ENCRYPTION
-  ──────────────────────────────────────────────────────────────────
-  Mail         yaizm058@gmail.com             ● ONLINE      TLS v1.3
-  LinkedIn     in/m-enes-yağız                ● VERIFIED    HTTPS
-  Telegram     @galileoff                     ● ACTIVE      E2EE
-  Instagram    @enesyagiz_f                   ○ IDLE        HTTPS
-  Sponsor      buymeacoffee.com/galileoff     ★ OPEN        SSL
-```
+<p align="center">
+  <img src="./assets/contact.svg" width="100%" alt="contact terminal" />
+</p>
 
 <p align="center">
   <a href="mailto:yaizm058@gmail.com"><img src="https://img.shields.io/badge/Mail-yaizm058%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Email" /></a>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="290" viewBox="0 0 830 290" role="img" aria-label="galile0ff contact banner">
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; font-size: 15px; fill: #c9d1d9; }
+    .g { fill: #00ff41; }
+    .r { fill: #ff3b3b; }
+    .d { fill: #8b949e; }
+    .y { fill: #e3b341; }
+    .b { fill: #58a6ff; }
+    .o { opacity: 0; animation: show .01s forwards; }
+    @keyframes show { to { opacity: 1; } }
+    .t { width: 0; animation: type 1.4s steps(36) .3s forwards; }
+    @keyframes type { to { width: 385px; } }
+    .cur { opacity: 0; animation: blink 1s steps(1) 4.3s infinite; }
+    @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+    .glow { filter: drop-shadow(0 0 4px #00ff41); }
+  </style>
+  <defs>
+    <clipPath id="c1"><rect class="t" x="28" y="54" height="26"/></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="829" height="289" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 38 V10.5 a10 10 0 0 1 10 -10 H819.5 a10 10 0 0 1 10 10 V38 z" fill="#161b22"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+  <text x="415" y="25" text-anchor="middle" class="d" style="font-size:13px">root@galile0ff: ~/contact</text>
+
+  <g clip-path="url(#c1)"><text x="28" y="72"><tspan class="r">root@galile0ff:~#</tspan> ./connect --list-endpoints</text></g>
+
+  <text class="o d" x="28" y="98" style="animation-delay:1.8s">[*] endpoint'ler taranıyor...</text>
+
+  <g class="o" style="animation-delay:2.2s">
+    <text x="28" y="126" class="y">SERVICE</text>
+    <text x="160" y="126" class="y">TARGET</text>
+    <text x="480" y="126" class="y">STATE</text>
+    <text x="630" y="126" class="y">ENCRYPTION</text>
+  </g>
+  <g class="o" style="animation-delay:2.5s">
+    <text x="28" y="148">Mail</text><text x="160" y="148">yaizm058@gmail.com</text><text x="480" y="148" class="g">online</text><text x="630" y="148" class="b">TLS v1.3</text>
+  </g>
+  <g class="o" style="animation-delay:2.7s">
+    <text x="28" y="168">LinkedIn</text><text x="160" y="168">in/m-enes-yağız</text><text x="480" y="168" class="g">verified</text><text x="630" y="168" class="b">HTTPS</text>
+  </g>
+  <g class="o" style="animation-delay:2.9s">
+    <text x="28" y="188">Telegram</text><text x="160" y="188">@galileoff</text><text x="480" y="188" class="g">active</text><text x="630" y="188" class="b">E2EE</text>
+  </g>
+  <g class="o" style="animation-delay:3.1s">
+    <text x="28" y="208">Instagram</text><text x="160" y="208">@enesyagiz_f</text><text x="480" y="208" class="d">idle</text><text x="630" y="208" class="b">HTTPS</text>
+  </g>
+  <g class="o" style="animation-delay:3.3s">
+    <text x="28" y="228">Sponsor</text><text x="160" y="228">buymeacoffee.com/galileoff</text><text x="480" y="228" class="g">open</text><text x="630" y="228" class="b">SSL</text>
+  </g>
+
+  <text class="o g glow" x="28" y="258" style="animation-delay:3.8s;font-weight:700;font-size:16px">[+] status: ALL CHANNELS READY  //  galile0ff</text>
+
+  <text class="o" x="28" y="280" style="animation-delay:4.3s"><tspan class="r">root@galile0ff:~#</tspan></text>
+  <rect class="cur" x="180" y="267" width="9" height="16" fill="#00ff41"/>
+</svg>
