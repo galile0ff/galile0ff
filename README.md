@@ -64,15 +64,12 @@ Kırmayı öğrendiğim şeyi, daha sağlam kurmak için kullanırım.
 <img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&logoColor=0078D4&color=0d1117" />
 <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" />
 
-<!--
-  İSTEĞE BAĞLI: gerçekten kullandığın güvenlik araçlarını yaz, kullanmadığını yazma.
 
 **güvenlik**<br>
 <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94" />
 <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=FF6633" />
 <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7" />
 <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=gnometerminal&logoColor=00ff41" />
--->
 
 ---
 
